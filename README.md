@@ -11,7 +11,7 @@
 </div>
   <br>
 
-   <img src="file:///home/amayshah/Pictures/dekstop.png" alt="Rice Showcase" align="right" width="400px">
+   <img src="dekstop.png" alt="Rice Showcase" align="right" width="400px">
    List of configurations I used to personalize my own system.  
    
    Feel free to use it & share with others.
