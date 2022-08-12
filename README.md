@@ -1,6 +1,6 @@
 
 
-<div align="center"><h1>Endevour bspwm dotfiles </h1></div>
+<div align="center"><h1>Endeavour bspwm dotfiles </h1></div>
 
 <div align="center">
   <h3>─────※ ·❆· ※─────</h3>
